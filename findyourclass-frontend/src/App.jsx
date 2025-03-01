@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import axios from "axios";
 import Navbar from "./components/Navbar";
-import Footer from './Footer';
+import Footer from './components/Footer';
 import SearchBar from "./components/SearchBar";
 import SearchResults from "./components/SearchResults";
 import "./index.css";
