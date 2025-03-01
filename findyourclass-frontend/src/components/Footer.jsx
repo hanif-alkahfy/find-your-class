@@ -2,9 +2,9 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-5 fixed bottom-0">
+    <footer className="footer sm:footer-horizontal footer-center bg-base-300 text-black text-center mb-5">
       <aside>
-        <p>Copyright © {new Date().getFullYear()} - by Hannif Alkahfy</p>
+        <p>Copyright © {new Date().getFullYear()} - Hannif Alkahfy</p>
       </aside>
     </footer>
   );

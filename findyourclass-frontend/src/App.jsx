@@ -34,7 +34,7 @@ function App() {
   return (
     <Router>
       <Navbar />
-      <div className="min-h-screen min-w-screen flex flex-col items-center justify-center p-6 text-black">
+      <div className="min-h-screen min-w-screen flex flex-col items-center justify-center p-5 text-black">
         <h2 className="text-4xl font-bold mb-5 mt-25">Jadwal Kuliah S1 Informatika Amikom</h2>
         <SearchBar onSearch={handleSearch} />
   
@@ -51,8 +51,8 @@ function App() {
         ) : (
           results.length > 0 && <SearchResults data={results} />
         )}
-        <Footer />
       </div>
+      <Footer />
     </Router>
   );    
 }
