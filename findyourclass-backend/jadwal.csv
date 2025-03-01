@@ -1,0 +1,339 @@
+PROGRAM,HARI,DOSEN,T/P,JAM,RUANG,MATA KULIAH,KELAS
+Informatika,SENIN,"Herda Dicky Ramandita, M.Kom",T,07:00 - 08:40,05.04.04,ANALISIS DESAIN SISTEM INFORMASI,23S1IF07-Analisi
+Informatika,SENIN,"Irma Suwarning D, S.Psi., M.Psi",T,07:00 - 08:40,05.03.03,KECAKAPAN ANTAR PERSONAL,22S1IF10-Kecakap
+Informatika,SENIN,"Nafiatun Sholihah, S,Kom., M.Cs",T,07:00 - 08:40,05.03.07,KECERDASAN BUATAN,23S1IF08-Kecerda
+Bachelor ,SENIN,"Amirudin Khorul Huda, M.Kom",P,07:00 - 08:40,L 6.2.1,KOMPUTER GRAFIS,24BCI01-Kompute
+Informatika,SENIN,"Narwanto Nurcahyo, SH, MM",T,07:00 - 08:40,05.02.02,MANAJEMEN STRATEGIK,22S1IF08-Manajem
+Informatika,SENIN,"Subektiningsih, S.Kom., M.Kom.",T,07:00 - 08:40,05.03.04,RISET OPERASI,23S1IF02-RisetOp
+Informatika,SENIN,"Dr. Kumara Ari Yuana, ST, MT",T,07:00 - 08:40,05.04.02,RISET OPERASI,23S1IF05-RisetOp
+Informatika,SENIN,"Agung Pambudi, S.T., M.A.",T,07:00 - 08:40,05.02.05,SISTEM OPERASI,24S1IF06-SistemO
+Informatika,SENIN,"Fauzia Anis Sekarningrum, S.T., ",T,07:00 - 08:40,07.01.04,SISTEM OPERASI,24S1IF03-SistemO
+Informatika,SENIN,"Ferian Fauzi Abdulloh, S.Kom., M.Kom.",T,07:00 - 08:40,05.03.08,SISTEM OPERASI,24S1IF02-SistemO
+Informatika,SENIN,"Juarisman, M.Kom",T,07:00 - 08:40,05.03.01,STRUKTUR DATA,24S1IF05-Struktu
+Informatika,SENIN,"Hermenegildus Agus Wibowo, S.S., M.Hum.",T,08:50 - 10:30,05.02.01,BAHASA INGGRIS II,24S1IF06-BahasaI
+Informatika,SENIN,"Rizqi Sukma Kharisma, S.Kom., M.Kom.",T,08:50 - 10:30,07.02.01,KOMUNIKASI DATA,24S1IF04-Komunik
+Informatika,SENIN,"Narwanto Nurcahyo, SH, MM",T,08:50 - 10:30,05.02.02,MANAJEMEN STRATEGIK,22S1IF09-Manajem
+Bachelor ,SENIN,"Ajie Kusuma Wardhana, S.Kom., ",P,08:50 - 10:30,L 2.4.5,PEMROGRAMAN,24BCI01-Pemrogr
+Informatika,SENIN,"Novi Prisma Yunita, M.Kom",T,08:50 - 10:30,05.04.06,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr4
+Bachelor ,SENIN,"Abd. Mizwar A. Rahim, M.Kom",T,08:50 - 10:30,06.02.01,PROYEK DATA MINING,22BCI-ProyekD1
+Informatika,SENIN,"Agung Pambudi, S.T., M.A.",T,08:50 - 10:30,05.02.05,SISTEM OPERASI,24S1IF05-SistemO
+Informatika,SENIN,"Muhammad Tofa Nurcholis, S.Kom., M.Kom.",T,08:50 - 10:30,05.02.07,TUGAS MEDIA INTERAKTIF,22S1IF-TugasMe1
+Informatika,SENIN,"Robert Marco, S.T., M.T., Ph.D.",T,10:40 - 12:20,05.03.07,ALJABAR LINIER DAN MATRIKS,23S1IF02-Aljabar
+Informatika,SENIN,"Dwi Nurani, S.Kom., M.Kom.",T,10:40 - 12:20,05.04.02,ANALISIS DESAIN SISTEM INFORMASI,23S1IF03-Analisi
+Bachelor ,SENIN,"Ayuni Fitria, S.Pd., M.A",T,10:40 - 12:20,06.02.01,BAHASA INGGRIS II,24BCI01-BahasaI
+Informatika,SENIN,"Rizqi Sukma Kharisma, S.Kom., M.Kom.",T,10:40 - 12:20,07.02.03,HARDWARE/SOFTWARE I (sebelum UTS),24S1IF02-Hardwar
+Informatika,SENIN,"Rizqi Sukma Kharisma, S.Kom., M.Kom.",P,10:40 - 12:20,L 7.4.3,HARDWARE/SOFTWARE I (setelah UTS),24S1IF02-Hardwar
+Informatika,SENIN,"Nafiatun Sholihah, S,Kom., M.Cs",T,10:40 - 12:20,05.04.03,KECERDASAN BUATAN,23S1IF09-Kecerda
+Informatika,SENIN,"Kalis Purwanto, Dr, MM",T,10:40 - 12:20,05.02.05,KOMUNIKASI DAN NEGOSIASI,22S1IF-Komunik3
+Informatika,SENIN,"Ajie Kusuma Wardhana, S.Kom., ",P,10:40 - 12:20,L 2.4.5,PEMROGRAMAN,24S1IF01-Pemrogr
+Informatika,SENIN,"Yudha Riwanto, M.Kom",T,10:40 - 12:20,05.04.04,PEMROGRAMAN WEB,23S1IF08-Pemrogr
+Informatika,SENIN,"Anna Baita, S.Kom., M.Kom.",T,10:40 - 12:20,05.04.06,PROYEK DATA MINING,22S1IF-ProyekD4
+Informatika,SENIN,"Theopilus Bayu Sasongko, S.Kom., M.Eng.",T,10:40 - 12:20,07.02.01,PROYEK DATA MINING,22S1IF-ProyekD2
+Informatika,SENIN,"Kusnawi, S.Kom., M.Eng.",T,10:40 - 12:20,05.03.02,PROYEK DATA MINING,22S1IF-ProyekD3
+Informatika,SENIN,"Bambang Pilu Hartato, S.Kom., ",T,10:40 - 12:20,04.04.01,PROYEK PEMROGRAMAN,22S1IF-ProyekP7
+Informatika,SENIN,"Subektiningsih, S.Kom., M.Kom.",T,10:40 - 12:20,05.02.02,RISET OPERASI,23S1IF01-RisetOp
+Informatika,SENIN,"Bayu Setiaji, M.Kom.",T,10:40 - 12:20,05.03.05,TUGAS MEDIA INTERAKTIF,22S1IF-TugasMe2
+Informatika,SENIN,"Robert Marco, S.T., M.T., Ph.D.",T,13:20 - 15:00,05.03.02,ALJABAR LINIER DAN MATRIKS,23S1IF01-Aljabar
+Informatika,SENIN,"Dwi Nurani, S.Kom., M.Kom.",T,13:20 - 15:00,05.04.02,ANALISIS DESAIN SISTEM INFORMASI,23S1IF02-Analisi
+Informatika,SENIN,"Tri Susanto, M.Kom",T,13:20 - 15:00,VR.01.02,ANALISIS DESAIN SISTEM INFORMASI,23S1IF08-Analisi
+Informatika,SENIN,"Rumini, S.Kom., M.Kom.",T,13:20 - 15:00,05.04.01,BIG DATA & PREDICTIVE ANALYTICS,23S1IF05-BigData
+Informatika,SENIN,"Ainul Yaqin, S.Kom., M.Kom.",P,13:20 - 15:00,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF06-BigData
+Informatika,SENIN,"Ainul Yaqin, S.Kom., M.Kom.",T,13:20 - 15:00,04.03.01,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF06-BigData
+Informatika,SENIN,"Nuri Cahyono, M.Kom.",T,13:20 - 15:00,04.04.04,DIGITAL BUSINESS,22S1IF05-Digital
+Informatika,SENIN,"Uyock Anggoro Saputro, S.Kom., M.Kom.",T,13:20 - 15:00,05.03.05,DIGITAL BUSINESS,22S1IF10-Digital
+Informatika,SENIN,"Rizqi Sukma Kharisma, S.Kom., M.Kom.",T,13:20 - 15:00,07.02.03,HARDWARE/SOFTWARE I (sebelum UTS),24S1IF01-Hardwar
+Informatika,SENIN,"Rizqi Sukma Kharisma, S.Kom., M.Kom.",P,13:20 - 15:00,L 7.4.3,HARDWARE/SOFTWARE I (setelah UTS),24S1IF01-Hardwar
+Informatika,SENIN,"Alfie Nur Rahmi, S.Kom., M.Kom.",T,13:20 - 15:00,05.04.08,KECAKAPAN ANTAR PERSONAL,22S1IF02-Kecakap
+Informatika,SENIN,"Nurhayanto, SE, MBA",T,13:20 - 15:00,05.03.03,MANAJEMEN STRATEGIK,22S1IF01-Manajem
+Informatika,SENIN,"Ajie Kusuma Wardhana, S.Kom., ",P,13:20 - 15:00,L 2.4.5,PEMROGRAMAN,24S1IF02-Pemrogr
+Informatika,SENIN,"Novi Prisma Yunita, M.Kom",T,13:20 - 15:00,04.02.04,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr5
+Informatika,SENIN,"Enda Putri Atika, M.Kom",T,13:20 - 15:00,05.04.05,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr3
+Informatika,SENIN,"Yudha Riwanto, M.Kom",T,13:20 - 15:00,05.04.04,PEMROGRAMAN WEB,23S1IF09-Pemrogr
+Informatika,SENIN,"Tri Susanto, M.Kom",T,15:30 - 17:10,05.03.08,ANALISIS DESAIN SISTEM INFORMASI,23S1IF09-Analisi
+Informatika,SENIN,"Nuri Cahyono, M.Kom.",T,15:30 - 17:10,05.04.03,DIGITAL BUSINESS,22S1IF03-Digital
+Informatika,SENIN,"Alfie Nur Rahmi, S.Kom., M.Kom.",T,15:30 - 17:10,05.04.08,KECAKAPAN ANTAR PERSONAL,22S1IF01-Kecakap
+Informatika,SENIN,"Arifiyanto Hadinegoro, S.Kom., M.T.",T,15:30 - 17:10,05.04.02,KOMUNIKASI DATA,24S1IF02-Komunik
+Informatika,SENIN,"Mujiyanto, M.Kom",T,15:30 - 17:10,05.03.04,PEMROGRAMAN WEB,23S1IF02-Pemrogr
+Informatika,SENIN,"Rifda Faticha Alfa Aziza, S.Kom., ",P,15:30 - 17:10,L 2.4.5,PEMROGRAMAN WEB,23S1IF01-Pemrogr
+Informatika,SENIN,"Eko Tri Anggono, S.E., M.M",T,15:30 - 17:10,VR.01.02,PENDIDIKAN KEWARGANEGARAAN,23S1IF07-Pendidi
+Informatika,SENIN,"Anna Baita, S.Kom., M.Kom.",T,15:30 - 17:10,07.01.03,PROYEK DATA MINING,22S1IF-ProyekD7
+Informatika,SELASA,"Dr. Ferry Wahyu Wibowo, S.Si., M.Cs.",T,07:00 - 08:40,07.01.04,ALJABAR LINIER DAN MATRIKS,23S1IF04-Aljabar
+Informatika,SELASA,"Herda Dicky Ramandita, M.Kom",T,07:00 - 08:40,05.03.03,ANALISIS DESAIN SISTEM INFORMASI,23S1IF07-Analisi
+Informatika,SELASA,"Eli Pujastuti, S.Kom., M.Kom.",T,07:00 - 08:40,05.02.08,DIGITAL BUSINESS,22S1IF11-Digital
+Informatika,SELASA,"Nuri Cahyono, M.Kom.",T,07:00 - 08:40,05.04.08,DIGITAL BUSINESS,22S1IF04-Digital
+Informatika,SELASA,"Muhammad Tofa Nurcholis, S.Kom., M.Kom.",T,07:00 - 08:40,07.02.03,DIGITAL BUSINESS,22S1IF08-Digital
+Informatika,SELASA,"Uyock Anggoro Saputro, S.Kom., M.Kom.",T,07:00 - 08:40,05.04.06,HARDWARE/SOFTWARE I (sebelum UTS),24S1IF05-Hardwar
+Informatika,SELASA,"Uyock Anggoro Saputro, S.Kom., M.Kom.",P,07:00 - 08:40,L 7.4.3,HARDWARE/SOFTWARE I (setelah UTS),24S1IF05-Hardwar
+Informatika,SELASA,"Irma Suwarning D, S.Psi., M.Psi",T,07:00 - 08:40,05.04.02,KECAKAPAN ANTAR PERSONAL,22S1IF12-Kecakap
+Informatika,SELASA,"Arif Akbarul Huda, S.Si., M.Eng.",T,07:00 - 08:40,05.03.07,KECERDASAN BUATAN,23S1IF01-Kecerda
+Informatika,SELASA,"Ferian Fauzi Abdulloh, S.Kom., M.Kom.",T,07:00 - 08:40,04.03.05,KOMUNIKASI DAN NEGOSIASI,22S1IF-Komunik5
+Informatika,SELASA,"Arifiyanto Hadinegoro, S.Kom., M.T.",T,07:00 - 08:40,05.04.03,KOMUNIKASI DATA,24S1IF01-Komunik
+Informatika,SELASA,"Narwanto Nurcahyo, SH, MM",T,07:00 - 08:40,05.02.02,MANAJEMEN STRATEGIK,22S1IF10-Manajem
+Informatika,SELASA,"Hanafi, S.Kom., M.Eng., Ph.D.",T,07:00 - 08:40,05.02.05,MANAJEMEN SUMBERDAYA IT,22S1IF03-Manajem
+Informatika,SELASA,"Mujiyanto, M.Kom",T,07:00 - 08:40,05.02.01,PEMROGRAMAN WEB,23S1IF03-Pemrogr
+Informatika,SELASA,"Ade Pujianto, M.Kom",T,07:00 - 08:40,05.04.04,PEMROGRAMAN WEB,23S1IF05-Pemrogr
+Bachelor ,SELASA,"Rifda Faticha Alfa Aziza, S.Kom., ",T,07:00 - 08:40,06.02.04,PEMROGRAMAN WEB,23BCI01-Pemrogr
+Informatika,SELASA,"Bambang Pilu Hartato, S.Kom., ",T,07:00 - 08:40,07.02.01,PROYEK PEMROGRAMAN,22S1IF-ProyekP2
+Informatika,SELASA,"Dr. Kumara Ari Yuana, ST, MT",T,07:00 - 08:40,05.02.06,RISET OPERASI,23S1IF06-RisetOp
+Bachelor ,SELASA,"Fauzia Anis Sekarningrum, S.T., ",T,07:00 - 08:40,06.02.05,SISTEM OPERASI,24BCI01-SistemO
+Informatika,SELASA,"Heri Sismoro, S.Kom., M.Kom.",T,08:50 - 10:30,04.02.02,ALJABAR LINIER DAN MATRIKS,23S1IF07-Aljabar
+Informatika,SELASA,"Marita Nurharjanti, S.Pd., M.Pd",T,08:50 - 10:30,05.03.03,BAHASA INGGRIS II,24S1IF04-BahasaI
+Informatika,SELASA,"Ayuni Fitria, S.Pd., M.A",T,08:50 - 10:30,05.04.01,BAHASA INGGRIS II,24S1IF02-BahasaI
+Informatika,SELASA,"Enda Putri Atika, M.Kom",T,08:50 - 10:30,07.02.01,BIG DATA & PREDICTIVE ANALYTICS,23S1IF09-BigData
+Informatika,SELASA,"Uyock Anggoro Saputro, S.Kom., M.Kom.",P,08:50 - 10:30,L 7.4.3,HARDWARE/SOFTWARE I (setelah UTS),24S1IF06-Hardwar
+Informatika,SELASA,"Andika Agus Slameto, S.Kom., M.Kom.",T,08:50 - 10:30,04.03.03,KEAMANAN JARINGAN,22S1IF-Keamana2
+Informatika,SELASA,"Nur Aini, A.Md., S.Kom., M.Kom.",T,08:50 - 10:30,04.03.04,KECAKAPAN ANTAR PERSONAL,22S1IF03-Kecakap
+Informatika,SELASA,"Arif Akbarul Huda, S.Si., M.Eng.",T,08:50 - 10:30,05.04.04,KECERDASAN BUATAN,23S1IF02-Kecerda
+Informatika,SELASA,"Anna Baita, S.Kom., M.Kom.",T,08:50 - 10:30,05.04.06,KECERDASAN BUATAN,23S1IF03-Kecerda
+Informatika,SELASA,"Mei Parwanto Kurniawan, S.Kom., M.Kom.",T,08:50 - 10:30,05.02.07,KOMUNIKASI DAN NEGOSIASI,22S1IF-Komunik1
+Informatika,SELASA,"Narwanto Nurcahyo, SH, MM",T,08:50 - 10:30,05.02.02,MANAJEMEN STRATEGIK,22S1IF11-Manajem
+Bachelor ,SELASA,"Drs. Asro Nasiri, M.Kom.",T,08:50 - 10:30,06.02.01,MANAJEMEN SUMBERDAYA IT,22BCI01-Manajem
+Informatika,SELASA,"Muhammad Rudyanto Arief, S.T., ",T,08:50 - 10:30,05.02.03,PEMROGRAMAN WEB,23S1IF04-Pemrogr
+Informatika,SELASA,"Agung Pambudi, S.T., M.A.",P,08:50 - 10:30,L 2.4.3,SISTEM OPERASI,24S1IF05-SistemO
+Informatika,SELASA,"Nafiatun Sholihah, S,Kom., M.Cs",T,08:50 - 10:30,05.04.07,STRUKTUR DATA,24S1IF01-Struktu
+Informatika,SELASA,"Heri Sismoro, S.Kom., M.Kom.",T,10:40 - 12:20,04.02.02,ALJABAR LINIER DAN MATRIKS,23S1IF08-Aljabar
+Bachelor ,SELASA,"Dr. Ferry Wahyu Wibowo, S.Si., M.Cs.",T,10:40 - 12:20,06.02.05,ALJABAR LINIER DAN MATRIKS,23BCI01-Aljabar
+Informatika,SELASA,"Dwi Nurani, S.Kom., M.Kom.",T,10:40 - 12:20,05.04.02,ANALISIS DESAIN SISTEM INFORMASI,23S1IF03-Analisi
+Informatika,SELASA,"Ayuni Fitria, S.Pd., M.A",T,10:40 - 12:20,05.04.01,BAHASA INGGRIS II,24S1IF01-BahasaI
+Informatika,SELASA,"Marita Nurharjanti, S.Pd., M.Pd",T,10:40 - 12:20,05.03.03,BAHASA INGGRIS II,24S1IF03-BahasaI
+Informatika,SELASA,"Theopilus Bayu Sasongko, S.Kom., M.Eng.",T,10:40 - 12:20,04.03.01,BIG DATA & PREDICTIVE ANALYTICS,23S1IF07-BigData
+Informatika,SELASA,"Nur Aini, A.Md., S.Kom., M.Kom.",T,10:40 - 12:20,05.03.04,KECAKAPAN ANTAR PERSONAL,22S1IF06-Kecakap
+Informatika,SELASA,"Windha Mega Pradnya Dhuhita, S.Kom., M.Kom.",T,10:40 - 12:20,05.02.03,KECERDASAN BUATAN,23S1IF06-Kecerda
+Bachelor ,SELASA,"Suyatmi, S.E., M.M.",T,10:40 - 12:20,06.02.02,MANAJEMEN STRATEGIK,22BCI01-Manajem
+Informatika,SELASA,"Muhammad Rudyanto Arief, S.T., ",P,10:40 - 12:20,L 2.4.5,PEMROGRAMAN WEB,23S1IF04-Pemrogr
+Informatika,SELASA,"Agung Pambudi, S.T., M.A.",P,10:40 - 12:20,L 2.4.3,SISTEM OPERASI,24S1IF06-SistemO
+Informatika,SELASA,"Ike Verawati, S.Kom., M.Kom.",P,10:40 - 12:20,L 7.4.1,STRUKTUR DATA,24S1IF02-Struktu
+Informatika,SELASA,"Ibnu Hadi Purwanto, S.Kom., M.Kom.",P,10:40 - 12:20,L 7.3.3,TUGAS VIDEO DAN EFEK SPESIAL,22S1IF-TugasVi1
+Informatika,SELASA,"Hanif Al Fatta, S.Kom., M.Kom., Ph.D.",T,13:20 - 15:00,04.02.01,ANALISIS DESAIN SISTEM INFORMASI,23S1IF05-Analisi
+Informatika,SELASA,"Tri Susanto, M.Kom",T,13:20 - 15:00,05.04.05,ANALISIS DESAIN SISTEM INFORMASI,23S1IF08-Analisi
+Informatika,SELASA,"Dwi Nurani, S.Kom., M.Kom.",T,13:20 - 15:00,05.04.02,ANALISIS DESAIN SISTEM INFORMASI,23S1IF04-Analisi
+Informatika,SELASA,"Mulia Sulistiyono, S.Kom., M.Kom.",T,13:20 - 15:00,05.03.02,BIG DATA & PREDICTIVE ANALYTICS,23S1IF01-BigData
+Informatika,SELASA,"Tristanto Ariaji, S.Kom., M.Kom.",T,13:20 - 15:00,05.03.04,KEAMANAN JARINGAN,22S1IF-Keamana1
+Informatika,SELASA,"Windha Mega Pradnya Dhuhita, S.Kom., M.Kom.",T,13:20 - 15:00,05.02.02,KECERDASAN BUATAN,23S1IF07-Kecerda
+Informatika,SELASA,"Amirudin Khorul Huda, M.Kom",P,13:20 - 15:00,L 7.5.2,KOMPUTER GRAFIS,24S1IF05-Kompute
+Bachelor ,SELASA,"Majid Rahardi, S.Kom., M.Eng.",T,13:20 - 15:00,06.02.05,KOMUNIKASI DATA,24BCI01-Komunik
+Informatika,SELASA,"Arif Akbarul Huda, S.Si., M.Eng.",T,13:20 - 15:00,05.03.03,MIXED REALITY,22S1IF-MixedRe1
+Informatika,SELASA,"Kamarudin, S.Kom., M.Kom.",P,13:20 - 15:00,L 2.4.5,PEMROGRAMAN,24S1IF03-Pemrogr
+Informatika,SELASA,"Hendri Kurniawan Prakosa, ",T,13:20 - 15:00,05.03.08,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr2
+Informatika,SELASA,"Ferri Wicaksono, S.I.P., M.A.",T,13:20 - 15:00,VR.01.06,PENDIDIKAN KEWARGANEGARAAN,23S1IF09-Pendidi
+Informatika,SELASA,"Ahmad Sa`di, S.Kom, M.Eng",T,13:20 - 15:00,05.02.01,PERANCANGAN JARINGAN,22S1IF-Peranca2
+Informatika,SELASA,"Abd. Mizwar A. Rahim, M.Kom",T,13:20 - 15:00,05.04.04,PROYEK PEMROGRAMAN,22S1IF-ProyekP6
+Informatika,SELASA,"Ike Verawati, S.Kom., M.Kom.",P,13:20 - 15:00,L 7.4.1,STRUKTUR DATA,24S1IF04-Struktu
+Informatika,SELASA,"Muhammad Tofa Nurcholis, S.Kom., M.Kom.",T,13:20 - 15:00,07.02.03,TUGAS MEDIA INTERAKTIF,22S1IF-TugasMe1
+Informatika,SELASA,"Mulia Sulistiyono, S.Kom., M.Kom.",T,15:30 - 17:10,07.02.02,BIG DATA & PREDICTIVE ANALYTICS,23S1IF03-BigData
+Informatika,SELASA,"Uyock Anggoro Saputro, S.Kom., M.Kom.",T,15:30 - 17:10,05.03.06,HARDWARE/SOFTWARE I (sebelum UTS),24S1IF04-Hardwar
+Informatika,SELASA,"Uyock Anggoro Saputro, S.Kom., M.Kom.",P,15:30 - 17:10,L 7.4.3,HARDWARE/SOFTWARE I (setelah UTS),24S1IF04-Hardwar
+Informatika,SELASA,"Lia Ayu Ivanjelita, M.Kom",T,15:30 - 17:10,05.03.02,KECAKAPAN ANTAR PERSONAL,22S1IF13-Kecakap
+Informatika,SELASA,"Amirudin Khorul Huda, M.Kom",P,15:30 - 17:10,L 7.5.2,KOMPUTER GRAFIS,24S1IF06-Kompute
+Informatika,SELASA,"Arif Akbarul Huda, S.Si., M.Eng.",T,15:30 - 17:10,07.01.04,MIXED REALITY,22S1IF-MixedRe2
+Informatika,SELASA,"Yudha Riwanto, M.Kom",P,15:30 - 17:10,L 2.4.5,PEMROGRAMAN WEB,23S1IF09-Pemrogr
+Informatika,SELASA,"Ferri Wicaksono, S.I.P., M.A.",T,15:30 - 17:10,VR.01.06,PENDIDIKAN KEWARGANEGARAAN,23S1IF08-Pendidi
+Informatika,SELASA,"Hanantyo Sri Nugroho, S.IP., M.A.",T,15:30 - 17:10,VR.01.07,PENDIDIKAN KEWARGANEGARAAN,23S1IF05-Pendidi
+Informatika,SELASA,"Abd. Mizwar A. Rahim, M.Kom",T,15:30 - 17:10,07.02.03,PROYEK DATA MINING,22S1IF-ProyekD6
+Informatika,SELASA,"Ike Verawati, S.Kom., M.Kom.",P,15:30 - 17:10,L 7.4.1,STRUKTUR DATA,24S1IF03-Struktu
+Bachelor ,RABU,"Emigawaty, M.Kom",T,07:00 - 08:40,06.02.02,ANALISIS DESAIN SISTEM INFORMASI,23BCI01-Analisi
+Informatika,RABU,"Hermenegildus Agus Wibowo, S.S., M.Hum.",T,07:00 - 08:40,05.04.02,BAHASA INGGRIS II,24S1IF05-BahasaI
+Informatika,RABU,"Uyock Anggoro Saputro, S.Kom., M.Kom.",T,07:00 - 08:40,05.04.08,HARDWARE/SOFTWARE I (sebelum UTS),24S1IF06-Hardwar
+Informatika,RABU,"Irma Suwarning D, S.Psi., M.Psi",T,07:00 - 08:40,05.02.06,KECAKAPAN ANTAR PERSONAL,22S1IF11-Kecakap
+Informatika,RABU,"Mei Parwanto Kurniawan, S.Kom., M.Kom.",T,07:00 - 08:40,05.02.08,KOMUNIKASI DAN NEGOSIASI,22S1IF-Komunik2
+Informatika,RABU,"Arifiyanto Hadinegoro, S.Kom., M.T.",P,07:00 - 08:40,L 7.4.3,KOMUNIKASI DATA,24S1IF03-Komunik
+Informatika,RABU,"Raditya Wardhana, S.Kom., M.Kom.",P,07:00 - 08:40,L 7.5.3,MULTIMEDIA LANJUT,23S1IF-Multime1
+Informatika,RABU,"Enda Putri Atika, M.Kom",P,07:00 - 08:40,L 2.4.2,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr3
+Informatika,RABU,"Ahmad Ridwan, S.Tr.T., M.T",T,07:00 - 08:40,07.02.02,PROYEK PEMROGRAMAN,22S1IF-ProyekP4
+Informatika,RABU,"Fauzia Anis Sekarningrum, S.T., ",T,07:00 - 08:40,05.03.05,SISTEM OPERASI,24S1IF04-SistemO
+Informatika,RABU,"Mulia Sulistiyono, S.Kom., M.Kom.",P,08:50 - 10:30,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF01-BigData
+Informatika,RABU,"Mulia Sulistiyono, S.Kom., M.Kom.",T,08:50 - 10:30,05.04.08,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF01-BigData
+Informatika,RABU,"Andika Agus Slameto, S.Kom., M.Kom.",T,08:50 - 10:30,04.03.03,JARINGAN KOMPUTER II,23S1IF-Jaringa1
+Informatika,RABU,"Drs. Bambang Sudaryatno, M.M.",T,08:50 - 10:30,05.02.06,KECAKAPAN ANTAR PERSONAL,22S1IF08-Kecakap
+Informatika,RABU,"Yudi Sutanto, S.Kom., M.Kom.",P,08:50 - 10:30,L 7.4.3,KOMUNIKASI DATA,24S1IF05-Komunik
+Informatika,RABU,"Rahma Widyawati, S.E., M.M.",T,08:50 - 10:30,04.02.05,MANAJEMEN STRATEGIK,22S1IF05-Manajem
+Informatika,RABU,"Suyatmi, S.E., M.M.",T,08:50 - 10:30,07.02.02,MANAJEMEN STRATEGIK,22S1IF12-Manajem
+Informatika,RABU,"Drs. Asro Nasiri, M.Kom.",T,08:50 - 10:30,04.03.02,MANAJEMEN SUMBERDAYA IT,22S1IF01-Manajem
+Informatika,RABU,"Majid Rahardi, S.Kom., M.Eng.",T,08:50 - 10:30,04.03.04,METODOLOGI PENELITIAN,22S1IF10-Metodol
+Informatika,RABU,"Emigawaty, M.Kom, Prof. Dr. Kusrini, S.Kom., M.Kom.",T,08:50 - 10:30,07.01.04,METODOLOGI PENELITIAN,22S1IF09-Metodol
+Bachelor ,RABU,"Nafiatun Sholihah, S,Kom., M.Cs",T,08:50 - 10:30,06.02.01,STRUKTUR DATA,24BCI01-Struktu
+Informatika,RABU,"Lilis Dwi Farida, S.Kom., M.Eng.",T,10:40 - 12:20,05.03.01,ALJABAR LINIER DAN MATRIKS,23S1IF09-Aljabar
+Informatika,RABU,"Dwi Nurani, S.Kom., M.Kom.",T,10:40 - 12:20,05.03.08,ANALISIS DESAIN SISTEM INFORMASI,23S1IF04-Analisi
+Informatika,RABU,"Mulia Sulistiyono, S.Kom., M.Kom.",T,10:40 - 12:20,05.04.05,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF02-BigData
+Informatika,RABU,"Mulia Sulistiyono, S.Kom., M.Kom.",P,10:40 - 12:20,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF02-BigData
+Informatika,RABU,"Eli Pujastuti, S.Kom., M.Kom.",T,10:40 - 12:20,05.04.02,DIGITAL BUSINESS,22S1IF13-Digital
+Informatika,RABU,"Nur Aini, A.Md., S.Kom., M.Kom.",T,10:40 - 12:20,05.03.04,KECAKAPAN ANTAR PERSONAL,22S1IF04-Kecakap
+Informatika,RABU,"Drs. Bambang Sudaryatno, M.M.",T,10:40 - 12:20,05.02.06,KECAKAPAN ANTAR PERSONAL,22S1IF09-Kecakap
+Bachelor ,RABU,"Arif Akbarul Huda, S.Si., M.Eng.",T,10:40 - 12:20,06.02.05,KECERDASAN BUATAN,23BCI01-Kecerda
+Informatika,RABU,"Yudi Sutanto, S.Kom., M.Kom.",P,10:40 - 12:20,L 7.4.3,KOMUNIKASI DATA,24S1IF06-Komunik
+Informatika,RABU,"Rahma Widyawati, S.E., M.M.",T,10:40 - 12:20,04.02.05,MANAJEMEN STRATEGIK,22S1IF06-Manajem
+Informatika,RABU,"Drs. Asro Nasiri, M.Kom.",T,10:40 - 12:20,04.02.01,MANAJEMEN SUMBERDAYA IT,22S1IF02-Manajem
+Informatika,RABU,"Majid Rahardi, S.Kom., M.Eng.",T,10:40 - 12:20,04.03.04,METODOLOGI PENELITIAN,22S1IF05-Metodol
+Informatika,RABU,"Dr. Andi Sunyoto, S.Kom., M.Kom.",T,10:40 - 12:20,07.01.04,METODOLOGI PENELITIAN,22S1IF03-Metodol
+Informatika,RABU,"Raditya Wardhana, S.Kom., M.Kom.",T,10:40 - 12:20,05.04.04,MULTIMEDIA LANJUT,23S1IF-Multime1
+Informatika,RABU,"Hendri Kurniawan Prakosa, ",T,10:40 - 12:20,07.01.03,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr1
+Informatika,RABU,"Ade Pujianto, M.Kom",P,10:40 - 12:20,L 2.4.5,PEMROGRAMAN WEB,23S1IF05-Pemrogr
+Informatika,RABU,"Yudha Riwanto, M.Kom",T,10:40 - 12:20,05.04.06,PEMROGRAMAN WEB,23S1IF07-Pemrogr
+Informatika,RABU,"Istiningsih, S.E., M.M.",T,10:40 - 12:20,VR.01.01,PENDIDIKAN KEWARGANEGARAAN,23S1IF03-Pendidi
+Informatika,RABU,"Anna Baita, S.Kom., M.Kom.",T,10:40 - 12:20,05.03.05,PROYEK DATA MINING,22S1IF-ProyekD7
+Bachelor ,RABU,"Fauzia Anis Sekarningrum, S.T., ",P,10:40 - 12:20,L 2.4.3,SISTEM OPERASI,24BCI01-SistemO
+Informatika,RABU,"Sudarmawan, S.T., M.T.",T,13:20 - 15:00,05.02.02,ANALISIS DESAIN SISTEM INFORMASI,23S1IF01-Analisi
+Informatika,RABU,"Hanif Al Fatta, S.Kom., M.Kom., Ph.D.",T,13:20 - 15:00,04.02.02,ANALISIS DESAIN SISTEM INFORMASI,23S1IF05-Analisi
+Informatika,RABU,"Dwi Nurani, S.Kom., M.Kom.",T,13:20 - 15:00,05.03.08,ANALISIS DESAIN SISTEM INFORMASI,23S1IF02-Analisi
+Informatika,RABU,"Tri Susanto, M.Kom",T,13:20 - 15:00,05.04.01,ANALISIS DESAIN SISTEM INFORMASI,23S1IF09-Analisi
+Informatika,RABU,"Enda Putri Atika, M.Kom",P,13:20 - 15:00,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF08-BigData
+Informatika,RABU,"Rumini, S.Kom., M.Kom.",T,13:20 - 15:00,05.04.07,BIG DATA & PREDICTIVE ANALYTICS,23S1IF04-BigData
+Informatika,RABU,"Enda Putri Atika, M.Kom",T,13:20 - 15:00,05.03.06,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF08-BigData
+Informatika,RABU,"Tristanto Ariaji, S.Kom., M.Kom.",P,13:20 - 15:00,L 7.5.1,KEAMANAN JARINGAN,22S1IF-Keamana1
+Informatika,RABU,"Raditya Wardhana, S.Kom., M.Kom.",P,13:20 - 15:00,L 7.5.2,KOMPUTER GRAFIS,24S1IF01-Kompute
+Informatika,RABU,"Ferian Fauzi Abdulloh, S.Kom., M.Kom.",T,13:20 - 15:00,05.03.01,KOMUNIKASI DAN NEGOSIASI,22S1IF-Komunik7
+Bachelor ,RABU,"Majid Rahardi, S.Kom., M.Eng.",P,13:20 - 15:00,L 7.4.3,KOMUNIKASI DATA,24BCI01-Komunik
+Informatika,RABU,"Ajie Kusuma Wardhana, S.Kom., ",T,13:20 - 15:00,05.02.04,MANAJEMEN SUMBERDAYA IT,22S1IF12-Manajem
+Informatika,RABU,"Kamarudin, S.Kom., M.Kom.",P,13:20 - 15:00,L 2.4.5,PEMROGRAMAN,24S1IF04-Pemrogr
+Bachelor ,RABU,"Novi Prisma Yunita, M.Kom",T,13:20 - 15:00,06.02.05,PEMROGRAMAN BASIS DATA,23BCI-Pemrogr1
+Informatika,RABU,"Yudha Riwanto, M.Kom",T,13:20 - 15:00,05.04.06,PEMROGRAMAN WEB,23S1IF06-Pemrogr
+Informatika,RABU,"Anna Baita, S.Kom., M.Kom.",T,13:20 - 15:00,05.04.02,PROYEK DATA MINING,22S1IF-ProyekD4
+Informatika,RABU,"Abd. Mizwar A. Rahim, M.Kom",T,13:20 - 15:00,05.02.08,PROYEK DATA MINING,22S1IF-ProyekD6
+Informatika,RABU,"Theopilus Bayu Sasongko, S.Kom., M.Eng.",T,13:20 - 15:00,07.02.03,PROYEK DATA MINING,22S1IF-ProyekD1
+Informatika,RABU,"Bayu Setiaji, M.Kom.",T,13:20 - 15:00,07.01.04,PROYEK GAME,22S1IF-ProyekG1
+Bachelor ,RABU,"Bambang Pilu Hartato, S.Kom., ",T,13:20 - 15:00,06.02.01,PROYEK PEMROGRAMAN,22BCI-ProyekP1
+Informatika,RABU,"Ibnu Hadi Purwanto, S.Kom., M.Kom.",P,13:20 - 15:00,L 7.3.3,TUGAS VIDEO DAN EFEK SPESIAL,22S1IF-TugasVi1
+Informatika,RABU,"Herda Dicky Ramandita, M.Kom",T,15:30 - 17:10,05.03.06,ANALISIS DESAIN SISTEM INFORMASI,23S1IF06-Analisi
+Informatika,RABU,"Enda Putri Atika, M.Kom",P,15:30 - 17:10,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF09-BigData
+Informatika,RABU,"Enda Putri Atika, M.Kom",T,15:30 - 17:10,07.01.04,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF09-BigData
+Informatika,RABU,"Raditya Wardhana, S.Kom., M.Kom.",P,15:30 - 17:10,L 7.5.2,KOMPUTER GRAFIS,24S1IF02-Kompute
+Informatika,RABU,"Ferian Fauzi Abdulloh, S.Kom., M.Kom.",T,15:30 - 17:10,04.02.05,KOMUNIKASI DAN NEGOSIASI,22S1IF-Komunik6
+Informatika,RABU,"Yudha Riwanto, M.Kom",P,15:30 - 17:10,L 2.4.5,PEMROGRAMAN WEB,23S1IF08-Pemrogr
+Informatika,RABU,"Hanantyo Sri Nugroho, S.IP., M.A.",T,15:30 - 17:10,VR.01.03,PENDIDIKAN KEWARGANEGARAAN,23S1IF04-Pendidi
+Informatika,RABU,"Ahmad Sa`di, S.Kom, M.Eng",T,15:30 - 17:10,05.03.08,PERANCANGAN JARINGAN,22S1IF-Peranca1
+Informatika,RABU,"Bayu Setiaji, M.Kom.",T,15:30 - 17:10,05.04.01,PROYEK GAME,22S1IF-ProyekG2
+Informatika,RABU,"Bambang Pilu Hartato, S.Kom., ",T,15:30 - 17:10,05.04.02,PROYEK PEMROGRAMAN,22S1IF-ProyekP1
+Informatika,RABU,"Ahmad Ridwan, S.Tr.T., M.T",T,15:30 - 17:10,05.02.05,PROYEK PEMROGRAMAN,22S1IF-ProyekP3
+Informatika,RABU,"Abd. Mizwar A. Rahim, M.Kom",T,15:30 - 17:10,05.02.06,PROYEK PEMROGRAMAN,22S1IF-ProyekP5
+Informatika,KAMIS,"Eli Pujastuti, S.Kom., M.Kom.",T,07:00 - 08:40,04.04.01,DIGITAL BUSINESS,22S1IF12-Digital
+Bachelor ,KAMIS,"Uyock Anggoro Saputro, S.Kom., M.Kom.",T,07:00 - 08:40,06.02.01,DIGITAL BUSINESS,22BCI01-Digital
+Informatika,KAMIS,"Ahmad Zaid Rahman, M.Kom",T,07:00 - 08:40,05.03.06,FILM KARTUN 3D,22S1IF-FilmKar1
+Informatika,KAMIS,"Andika Agus Slameto, S.Kom., M.Kom.",P,07:00 - 08:40,L 2.4.2,JARINGAN KOMPUTER II,23S1IF-Jaringa1
+Informatika,KAMIS,"Raditya Wardhana, S.Kom., M.Kom.",P,07:00 - 08:40,L 7.5.2,KOMPUTER GRAFIS,24S1IF03-Kompute
+Informatika,KAMIS,"Arifiyanto Hadinegoro, S.Kom., M.T.",P,07:00 - 08:40,L 7.4.3,KOMUNIKASI DATA,24S1IF01-Komunik
+Informatika,KAMIS,"Emigawaty, M.Kom",T,07:00 - 08:40,05.02.03,METODOLOGI PENELITIAN,22S1IF02-Metodol
+Informatika,KAMIS,"Arif Akbarul Huda, S.Si., M.Eng.",P,07:00 - 08:40,L 7.3.3,MIXED REALITY,22S1IF-MixedRe2
+Bachelor ,KAMIS,"Rifda Faticha Alfa Aziza, S.Kom., ",P,07:00 - 08:40,L 2.4.5,PEMROGRAMAN WEB,23BCI01-Pemrogr
+Informatika,KAMIS,"Ahmad Sa`di, S.Kom, M.Eng",T,07:00 - 08:40,05.04.03,PERANCANGAN JARINGAN,22S1IF-Peranca1
+Informatika,KAMIS,"Theopilus Bayu Sasongko, S.Kom., M.Eng.",T,07:00 - 08:40,04.03.04,PROYEK DATA MINING,22S1IF-ProyekD1
+Informatika,KAMIS,"Bayu Setiaji, M.Kom.",T,07:00 - 08:40,05.04.04,PROYEK GAME,22S1IF-ProyekG1
+Informatika,KAMIS,"Bambang Pilu Hartato, S.Kom., ",T,07:00 - 08:40,05.04.06,PROYEK PEMROGRAMAN,22S1IF-ProyekP1
+Informatika,KAMIS,"Ahmad Ridwan, S.Tr.T., M.T",T,07:00 - 08:40,07.01.03,PROYEK PEMROGRAMAN,22S1IF-ProyekP4
+Informatika,KAMIS,"Abd. Mizwar A. Rahim, M.Kom",T,07:00 - 08:40,05.04.08,PROYEK PEMROGRAMAN,22S1IF-ProyekP5
+Informatika,KAMIS,"Dr. Kumara Ari Yuana, ST, MT",T,07:00 - 08:40,04.02.04,RISET OPERASI,23S1IF07-RisetOp
+Informatika,KAMIS,"Ike Verawati, S.Kom., M.Kom.",T,07:00 - 08:40,05.02.07,STRUKTUR DATA,24S1IF04-Struktu
+Informatika,KAMIS,"Krisnawati, S.Si., M.T.",T,08:50 - 10:30,05.02.01,ALJABAR LINIER DAN MATRIKS,23S1IF05-Aljabar
+Informatika,KAMIS,"Ainul Yaqin, S.Kom., M.Kom.",T,08:50 - 10:30,05.04.08,BIG DATA & PREDICTIVE ANALYTICS,23S1IF06-BigData
+Informatika,KAMIS,"Andika Agus Slameto, S.Kom., M.Kom.",P,08:50 - 10:30,L 2.4.2,KEAMANAN JARINGAN,22S1IF-Keamana2
+Informatika,KAMIS,"Nur Aini, A.Md., S.Kom., M.Kom.",T,08:50 - 10:30,05.03.06,KECAKAPAN ANTAR PERSONAL,22S1IF05-Kecakap
+Informatika,KAMIS,"Anna Baita, S.Kom., M.Kom.",T,08:50 - 10:30,05.04.03,KECERDASAN BUATAN,23S1IF04-Kecerda
+Informatika,KAMIS,"Raditya Wardhana, S.Kom., M.Kom.",P,08:50 - 10:30,L 7.5.2,KOMPUTER GRAFIS,24S1IF04-Kompute
+Informatika,KAMIS,"Arifiyanto Hadinegoro, S.Kom., M.T.",P,08:50 - 10:30,L 7.4.3,KOMUNIKASI DATA,24S1IF02-Komunik
+Informatika,KAMIS,"Arif Akbarul Huda, S.Si., M.Eng.",P,08:50 - 10:30,L 7.3.3,MIXED REALITY,22S1IF-MixedRe1
+Informatika,KAMIS,"Kamarudin, S.Kom., M.Kom.",P,08:50 - 10:30,L 2.4.5,PEMROGRAMAN,24S1IF05-Pemrogr
+Informatika,KAMIS,"Rifda Faticha Alfa Aziza, S.Kom., ",T,08:50 - 10:30,07.01.04,PEMROGRAMAN WEB,23S1IF01-Pemrogr
+Informatika,KAMIS,"Istiningsih, S.E., M.M.",T,08:50 - 10:30,VR.01.07,PENDIDIKAN KEWARGANEGARAAN,23S1IF02-Pendidi
+Informatika,KAMIS,"Subektiningsih, S.Kom., M.Kom.",T,08:50 - 10:30,05.04.06,RISET OPERASI,23S1IF03-RisetOp
+Informatika,KAMIS,"Ike Verawati, S.Kom., M.Kom.",T,08:50 - 10:30,05.02.08,STRUKTUR DATA,24S1IF03-Struktu
+Informatika,KAMIS,"Krisnawati, S.Si., M.T.",T,10:40 - 12:20,05.02.04,ALJABAR LINIER DAN MATRIKS,23S1IF06-Aljabar
+Informatika,KAMIS,"Mulia Sulistiyono, S.Kom., M.Kom.",P,10:40 - 12:20,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF03-BigData
+Informatika,KAMIS,"Mulia Sulistiyono, S.Kom., M.Kom.",T,10:40 - 12:20,05.04.03,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF03-BigData
+Bachelor ,KAMIS,"Ainul Yaqin, S.Kom., M.Kom.",P,10:40 - 12:20,L 6.2.1,BIG DATA & PREDICTIVE ANALYTICS,23BCI01-BigData
+Bachelor ,KAMIS,"Ainul Yaqin, S.Kom., M.Kom.",T,10:40 - 12:20,06.02.02,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23BCI01-BigData
+Informatika,KAMIS,"Nuri Cahyono, M.Kom.",T,10:40 - 12:20,05.04.06,DIGITAL BUSINESS,22S1IF06-Digital
+Bachelor ,KAMIS,"Uyock Anggoro Saputro, S.Kom., M.Kom.",P,10:40 - 12:20,L 7.4.3,HARDWARE/SOFTWARE I,24BCI01-Hardwar
+Bachelor ,KAMIS,"Uyock Anggoro Saputro, S.Kom., M.Kom.",T,10:40 - 12:20,06.02.05,HARDWARE/SOFTWARE I (sebelum UTS),24BCI01-Hardwar
+Informatika,KAMIS,"Windha Mega Pradnya Dhuhita, S.Kom., M.Kom.",T,10:40 - 12:20,05.03.02,KECERDASAN BUATAN,23S1IF05-Kecerda
+Informatika,KAMIS,"Ferian Fauzi Abdulloh, S.Kom., M.Kom.",T,10:40 - 12:20,05.03.04,KOMUNIKASI DAN NEGOSIASI,22S1IF-Komunik8
+Informatika,KAMIS,"Suyatmi, S.E., M.M.",T,10:40 - 12:20,07.02.02,MANAJEMEN STRATEGIK,22S1IF13-Manajem
+Informatika,KAMIS,"Rahma Widyawati, S.E., M.M.",T,10:40 - 12:20,04.02.05,MANAJEMEN STRATEGIK,22S1IF07-Manajem
+Informatika,KAMIS,"Nurhayanto, SE, MBA",T,10:40 - 12:20,05.02.07,MANAJEMEN STRATEGIK,22S1IF02-Manajem
+Informatika,KAMIS,"Ade Pujianto, M.Kom",T,10:40 - 12:20,05.04.05,MANAJEMEN SUMBERDAYA IT,22S1IF08-Manajem
+Informatika,KAMIS,"Ajie Kusuma Wardhana, S.Kom., ",T,10:40 - 12:20,05.04.04,MANAJEMEN SUMBERDAYA IT,22S1IF11-Manajem
+Informatika,KAMIS,"Emigawaty, M.Kom",T,10:40 - 12:20,05.02.06,METODOLOGI PENELITIAN,22S1IF01-Metodol
+Bachelor ,KAMIS,"Arief Setyanto, S.Si., M.T., Ph.D., ",T,10:40 - 12:20,06.02.01,METODOLOGI PENELITIAN,22BCI01-Metodol
+Informatika,KAMIS,"Kamarudin, S.Kom., M.Kom.",P,10:40 - 12:20,L 2.4.5,PEMROGRAMAN,24S1IF06-Pemrogr
+Informatika,KAMIS,"Istiningsih, S.E., M.M.",T,10:40 - 12:20,VR.01.07,PENDIDIKAN KEWARGANEGARAAN,23S1IF01-Pendidi
+Informatika,KAMIS,"Anna Baita, S.Kom., M.Kom.",T,10:40 - 12:20,07.02.01,PROYEK DATA MINING,22S1IF-ProyekD5
+Informatika,KAMIS,"Bambang Pilu Hartato, S.Kom., ",T,10:40 - 12:20,05.04.01,PROYEK PEMROGRAMAN,22S1IF-ProyekP7
+Informatika,KAMIS,"Ike Verawati, S.Kom., M.Kom.",T,10:40 - 12:20,05.02.03,STRUKTUR DATA,24S1IF02-Struktu
+Informatika,KAMIS,"Dr. Ferry Wahyu Wibowo, S.Si., M.Cs.",T,13:20 - 15:00,04.02.05,ALJABAR LINIER DAN MATRIKS,23S1IF03-Aljabar
+Informatika,KAMIS,"Herda Dicky Ramandita, M.Kom",T,13:20 - 15:00,05.04.01,ANALISIS DESAIN SISTEM INFORMASI,23S1IF06-Analisi
+Informatika,KAMIS,"Sudarmawan, S.T., M.T.",T,13:20 - 15:00,05.02.02,ANALISIS DESAIN SISTEM INFORMASI,23S1IF01-Analisi
+Bachelor ,KAMIS,"Emigawaty, M.Kom",T,13:20 - 15:00,06.02.05,ANALISIS DESAIN SISTEM INFORMASI,23BCI01-Analisi
+Informatika,KAMIS,"Enda Putri Atika, M.Kom",T,13:20 - 15:00,05.04.05,BIG DATA & PREDICTIVE ANALYTICS,23S1IF08-BigData
+Informatika,KAMIS,"Rumini, S.Kom., M.Kom.",T,13:20 - 15:00,05.02.03,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF04-BigData
+Informatika,KAMIS,"Mulia Sulistiyono, S.Kom., M.Kom.",T,13:20 - 15:00,05.02.01,BIG DATA & PREDICTIVE ANALYTICS,23S1IF02-BigData
+Informatika,KAMIS,"Rumini, S.Kom., M.Kom.",P,13:20 - 15:00,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF04-BigData
+Informatika,KAMIS,"Rizqi Sukma Kharisma, S.Kom., M.Kom.",P,13:20 - 15:00,L 7.4.3,HARDWARE/SOFTWARE I (setelah UTS),24S1IF03-Hardwar
+Informatika,KAMIS,"Rizqi Sukma Kharisma, S.Kom., M.Kom.",T,13:20 - 15:00,05.02.04,HARDWARE/SOFTWARE I (sebelum UTS),24S1IF03-Hardwar
+Informatika,KAMIS,"Nur Aini, A.Md., S.Kom., M.Kom.",T,13:20 - 15:00,05.03.06,KECAKAPAN ANTAR PERSONAL,22S1IF07-Kecakap
+Informatika,KAMIS,"Yudi Sutanto, S.Kom., M.Kom.",T,13:20 - 15:00,05.03.04,KOMUNIKASI DATA,24S1IF06-Komunik
+Informatika,KAMIS,"Ade Pujianto, M.Kom",T,13:20 - 15:00,05.04.03,MANAJEMEN SUMBERDAYA IT,22S1IF09-Manajem
+Informatika,KAMIS,"I Made Artha Agastya, S.T., M.Eng., Ph.D.",T,13:20 - 15:00,07.02.03,METODOLOGI PENELITIAN,22S1IF13-Metodol
+Informatika,KAMIS,"Anggit Dwi Hartanto, S.Kom., M.Kom., Prof. Dr. Ema Utami, ",T,13:20 - 15:00,05.02.05,METODOLOGI PENELITIAN,22S1IF04-Metodol
+Informatika,KAMIS,"Ferian Fauzi Abdulloh, S.Kom., M.Kom.",T,13:20 - 15:00,04.02.04,SISTEM OPERASI,24S1IF01-SistemO
+Informatika,KAMIS,"Juarisman, M.Kom",P,13:20 - 15:00,L 7.4.1,STRUKTUR DATA,24S1IF05-Struktu
+Informatika,KAMIS,"Rumini, S.Kom., M.Kom.",P,15:30 - 17:10,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF05-BigData
+Informatika,KAMIS,"Rumini, S.Kom., M.Kom.",T,15:30 - 17:10,07.01.03,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF05-BigData
+Informatika,KAMIS,"Nuri Cahyono, M.Kom.",T,15:30 - 17:10,05.04.08,DIGITAL BUSINESS,22S1IF01-Digital
+Bachelor ,KAMIS,"Lia Ayu Ivanjelita, M.Kom",T,15:30 - 17:10,06.02.01,KECAKAPAN ANTAR PERSONAL,22BCI01-Kecakap
+Informatika,KAMIS,"Rizqi Sukma Kharisma, S.Kom., M.Kom.",P,15:30 - 17:10,L 7.4.3,KOMUNIKASI DATA,24S1IF04-Komunik
+Informatika,KAMIS,"Ajie Kusuma Wardhana, S.Kom., ",T,15:30 - 17:10,05.04.06,MANAJEMEN SUMBERDAYA IT,22S1IF13-Manajem
+Informatika,KAMIS,"Majid Rahardi, S.Kom., M.Eng.",T,15:30 - 17:10,07.02.02,METODOLOGI PENELITIAN,22S1IF06-Metodol
+Informatika,KAMIS,"I Made Artha Agastya, S.T., M.Eng., Ph.D.",T,15:30 - 17:10,07.02.03,METODOLOGI PENELITIAN,22S1IF12-Metodol
+Informatika,KAMIS,"Eko Tri Anggono, S.E., M.M",T,15:30 - 17:10,VR.01.02,PENDIDIKAN KEWARGANEGARAAN,23S1IF06-Pendidi
+Bachelor ,KAMIS,"Ferri Wicaksono, S.I.P., M.A.",T,15:30 - 17:10,VR.01.01,PENDIDIKAN KEWARGANEGARAAN,23BCI01-Pendidi
+Informatika,KAMIS,"Juarisman, M.Kom",P,15:30 - 17:10,L 7.4.1,STRUKTUR DATA,24S1IF06-Struktu
+Informatika,JUMAT,"Theopilus Bayu Sasongko, S.Kom., M.Eng.",P,07:00 - 08:40,L 7.3.2,BIG DATA & PREDICTIVE ANALYTICS (setelah UTS),23S1IF07-BigData
+Informatika,JUMAT,"Theopilus Bayu Sasongko, S.Kom., M.Eng.",T,07:00 - 08:40,04.03.05,BIG DATA & PREDICTIVE ANALYTICS (sebelum UTS),23S1IF07-BigData
+Informatika,JUMAT,"Muhammad Tofa Nurcholis, S.Kom., M.Kom.",T,07:00 - 08:40,05.04.04,DIGITAL BUSINESS,22S1IF07-Digital
+Informatika,JUMAT,"Nurhayanto, SE, MBA",T,07:00 - 08:40,05.02.07,MANAJEMEN STRATEGIK,22S1IF04-Manajem
+Informatika,JUMAT,"Ajie Kusuma Wardhana, S.Kom., ",T,07:00 - 08:40,05.04.03,MANAJEMEN SUMBERDAYA IT,22S1IF10-Manajem
+Informatika,JUMAT,"Hendri Kurniawan Prakosa, ",P,07:00 - 08:40,L 2.4.2,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr1
+Bachelor ,JUMAT,"Novi Prisma Yunita, M.Kom",P,07:00 - 08:40,L 6.2.1,PEMROGRAMAN BASIS DATA,23BCI-Pemrogr1
+Informatika,JUMAT,"Yudha Riwanto, M.Kom",P,07:00 - 08:40,L 2.4.5,PEMROGRAMAN WEB,23S1IF06-Pemrogr
+Informatika,JUMAT,"Bayu Setiaji, M.Kom.",T,07:00 - 08:40,05.04.05,PROYEK GAME,22S1IF-ProyekG2
+Informatika,JUMAT,"Dr. Kumara Ari Yuana, ST, MT",T,07:00 - 08:40,05.02.03,RISET OPERASI,23S1IF04-RisetOp
+Informatika,JUMAT,"Fauzia Anis Sekarningrum, S.T., ",P,07:00 - 08:40,L 2.4.3,SISTEM OPERASI,24S1IF03-SistemO
+Informatika,JUMAT,"Juarisman, M.Kom",T,07:00 - 08:40,05.02.05,STRUKTUR DATA,24S1IF06-Struktu
+Informatika,JUMAT,"Kalis Purwanto, Dr, MM",T,08:50 - 10:30,05.02.03,KOMUNIKASI DAN NEGOSIASI,22S1IF-Komunik4
+Informatika,JUMAT,"Yudi Sutanto, S.Kom., M.Kom.",T,08:50 - 10:30,05.03.05,KOMUNIKASI DATA,24S1IF05-Komunik
+Informatika,JUMAT,"Nurhayanto, SE, MBA",T,08:50 - 10:30,05.02.07,MANAJEMEN STRATEGIK,22S1IF03-Manajem
+Informatika,JUMAT,"Hendri Kurniawan Prakosa, ",P,08:50 - 10:30,L 2.4.2,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr2
+Informatika,JUMAT,"Yudha Riwanto, M.Kom",P,08:50 - 10:30,L 2.4.5,PEMROGRAMAN WEB,23S1IF07-Pemrogr
+Informatika,JUMAT,"Kusnawi, S.Kom., M.Eng.",T,08:50 - 10:30,05.03.01,PROYEK DATA MINING,22S1IF-ProyekD3
+Bachelor ,JUMAT,"Bambang Pilu Hartato, S.Kom., ",T,08:50 - 10:30,06.02.02,PROYEK PEMROGRAMAN,22BCI-ProyekP1
+Informatika,JUMAT,"Amirudin Khorul Huda, M.Kom",T,08:50 - 10:30,05.04.06,RISET OPERASI,23S1IF08-RisetOp
+Bachelor ,JUMAT,"Dr. Kumara Ari Yuana, ST, MT",T,08:50 - 10:30,06.02.04,RISET OPERASI,23BCI01-RisetOp
+Informatika,JUMAT,"Fauzia Anis Sekarningrum, S.T., ",P,08:50 - 10:30,L 2.4.3,SISTEM OPERASI,24S1IF04-SistemO
+Bachelor ,JUMAT,"Ainul Yaqin, S.Kom., M.Kom.",T,13:20 - 15:00,06.02.04,BIG DATA & PREDICTIVE ANALYTICS,23BCI01-BigData
+Informatika,JUMAT,"Muhammad Tofa Nurcholis, S.Kom., M.Kom.",T,13:20 - 15:00,05.03.03,DIGITAL BUSINESS,22S1IF09-Digital
+Informatika,JUMAT,"Nuri Cahyono, M.Kom.",T,13:20 - 15:00,05.04.02,DIGITAL BUSINESS,22S1IF02-Digital
+Informatika,JUMAT,"Ahmad Zaid Rahman, M.Kom",P,13:20 - 15:00,L 7.5.2,FILM KARTUN 3D,22S1IF-FilmKar1
+Informatika,JUMAT,"Arifiyanto Hadinegoro, S.Kom., M.T.",T,13:20 - 15:00,05.04.06,KOMUNIKASI DATA,24S1IF03-Komunik
+Informatika,JUMAT,"Ade Pujianto, M.Kom",T,13:20 - 15:00,07.02.02,MANAJEMEN SUMBERDAYA IT,22S1IF07-Manajem
+Informatika,JUMAT,"Prasetyo Purnomo, S.Kom., ",T,13:20 - 15:00,05.03.02,MANAJEMEN SUMBERDAYA IT,22S1IF04-Manajem
+Informatika,JUMAT,"Majid Rahardi, S.Kom., M.Eng.",T,13:20 - 15:00,07.01.03,METODOLOGI PENELITIAN,22S1IF08-Metodol
+Informatika,JUMAT,"Novi Prisma Yunita, M.Kom",P,13:20 - 15:00,L 2.4.2,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr4
+Informatika,JUMAT,"Mujiyanto, M.Kom",P,13:20 - 15:00,L 2.4.5,PEMROGRAMAN WEB,23S1IF02-Pemrogr
+Informatika,JUMAT,"Ahmad Sa`di, S.Kom, M.Eng",T,13:20 - 15:00,05.02.06,PERANCANGAN JARINGAN,22S1IF-Peranca2
+Informatika,JUMAT,"Anna Baita, S.Kom., M.Kom.",T,13:20 - 15:00,07.01.04,PROYEK DATA MINING,22S1IF-ProyekD5
+Informatika,JUMAT,"Theopilus Bayu Sasongko, S.Kom., M.Eng.",T,13:20 - 15:00,05.02.05,PROYEK DATA MINING,22S1IF-ProyekD2
+Informatika,JUMAT,"Ahmad Ridwan, S.Tr.T., M.T",T,13:20 - 15:00,04.03.05,PROYEK PEMROGRAMAN,22S1IF-ProyekP3
+Informatika,JUMAT,"Bambang Pilu Hartato, S.Kom., ",T,13:20 - 15:00,04.03.06,PROYEK PEMROGRAMAN,22S1IF-ProyekP2
+Informatika,JUMAT,"Abd. Mizwar A. Rahim, M.Kom",T,13:20 - 15:00,05.02.02,PROYEK PEMROGRAMAN,22S1IF-ProyekP6
+Informatika,JUMAT,"Amirudin Khorul Huda, M.Kom",T,13:20 - 15:00,05.04.01,RISET OPERASI,23S1IF09-RisetOp
+Informatika,JUMAT,"Ferian Fauzi Abdulloh, S.Kom., M.Kom.",P,13:20 - 15:00,L 2.4.3,SISTEM OPERASI,24S1IF01-SistemO
+Bachelor ,JUMAT,"Nafiatun Sholihah, S,Kom., M.Cs",P,13:20 - 15:00,L 7.4.1,STRUKTUR DATA,24BCI01-Struktu
+Informatika,JUMAT,"Bayu Setiaji, M.Kom.",T,13:20 - 15:00,04.03.04,TUGAS MEDIA INTERAKTIF,22S1IF-TugasMe2
+Informatika,JUMAT,"Ade Pujianto, M.Kom",T,15:30 - 17:10,07.02.02,MANAJEMEN SUMBERDAYA IT,22S1IF06-Manajem
+Informatika,JUMAT,"Prasetyo Purnomo, S.Kom., ",T,15:30 - 17:10,05.03.02,MANAJEMEN SUMBERDAYA IT,22S1IF05-Manajem
+Informatika,JUMAT,"Majid Rahardi, S.Kom., M.Eng.",T,15:30 - 17:10,07.01.04,METODOLOGI PENELITIAN,22S1IF07-Metodol
+Informatika,JUMAT,"I Made Artha Agastya, S.T., M.Eng., Ph.D.",T,15:30 - 17:10,07.02.01,METODOLOGI PENELITIAN,22S1IF11-Metodol
+Informatika,JUMAT,"Novi Prisma Yunita, M.Kom",P,15:30 - 17:10,L 2.4.2,PEMROGRAMAN BASIS DATA,23S1IF-Pemrogr5
+Informatika,JUMAT,"Mujiyanto, M.Kom",P,15:30 - 17:10,L 2.4.5,PEMROGRAMAN WEB,23S1IF03-Pemrogr
+Bachelor ,JUMAT,"Abd. Mizwar A. Rahim, M.Kom",T,15:30 - 17:10,06.02.01,PROYEK DATA MINING,22BCI-ProyekD1
+Informatika,JUMAT,"Ferian Fauzi Abdulloh, S.Kom., M.Kom.",P,15:30 - 17:10,L 2.4.3,SISTEM OPERASI,24S1IF02-SistemO
+Informatika,JUMAT,"Nafiatun Sholihah, S,Kom., M.Cs",P,15:30 - 17:10,L 7.4.1,STRUKTUR DATA,24S1IF01-Struktu
+,,,,,,,
