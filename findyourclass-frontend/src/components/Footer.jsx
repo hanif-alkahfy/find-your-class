@@ -2,8 +2,10 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-white text-center py-4">
-      <p className="text-sm text-gray-500">Credit @Hannif Alkahfy</p>
+    <footer className="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-5 fixed bottom-0">
+      <aside>
+        <p>Copyright © {new Date().getFullYear()} - by Hannif Alkahfy</p>
+      </aside>
     </footer>
   );
 };
