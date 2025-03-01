@@ -20,7 +20,7 @@ function App() {
 
     try {
       const response = await axios.get(
-        `http://192.168.0.103:5000/search?keyword=${encodeURIComponent(keyword)}`
+        `https://findyourclass-api.vercel.app/search?keyword=${encodeURIComponent(keyword)}`
       );
       setResults(response.data);
     } catch (error) {
