@@ -62,6 +62,16 @@ app.get("/search", (req, res) => {
 });
 
 
+// Endpoint API
+app.get('/api/data', (req, res) => {
+  res.json({ message: "Data berhasil diambil!" });
+});
+
+// Start server
+app.listen(PORT, () => {
+  console.log(`Server berjalan di PORT: ${PORT}`);
+});
+
 // Jalankan server hanya sekali
 app.listen(PORT, "0.0.0.0", () => {
   console.log(`Server berjalan di PORT : ${PORT}`);
