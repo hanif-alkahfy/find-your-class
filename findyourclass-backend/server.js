@@ -1,5 +1,6 @@
 const express = require("express");
 const fs = require("fs");
+const path = require("path");
 const csv = require("csv-parser");
 const cors = require("cors");
 
@@ -11,20 +12,30 @@ let scheduleData = [];
 // Izinkan akses dari frontend (localhost:3000)
 app.use(cors());
 
-// Endpoint untuk memastikan server berjalan
-app.get("/api/data", (req, res) => {
-  res.json({ message: "Server is up and running!" });
-});
+// Gunakan path relatif untuk mengakses file CSV
+const filePath = path.join(__dirname, "public", "jadwal.csv");
 
-// Membaca CSV ke dalam array saat server dimulai
-fs.createReadStream("jadwal.csv")
+fs.createReadStream(filePath)
   .pipe(csv())
   .on("data", (row) => {
     scheduleData.push(row);
   })
   .on("end", () => {
     console.log("CSV file has been loaded.");
+  })
+  .on("error", (err) => {
+    console.error("Error reading CSV file:", err);
   });
+
+// // Membaca CSV ke dalam array saat server dimulai
+// fs.createReadStream("jadwal.csv")
+//   .pipe(csv())
+//   .on("data", (row) => {
+//     scheduleData.push(row);
+//   })
+//   .on("end", () => {
+//     console.log("CSV file has been loaded.");
+//   });
 
 // Fungsi pencarian jadwal
 function searchSchedule(keyword) {
@@ -53,6 +64,11 @@ function searchSchedule(keyword) {
     return matchMatkul && matchDosen;
   });
 }
+
+// Endpoint untuk memastikan server berjalan
+app.get("/api/data", (req, res) => {
+  res.json({ message: "Server is up and running!" });
+});
 
 app.get("/search", (req, res) => {
   const keyword = req.query.keyword;
