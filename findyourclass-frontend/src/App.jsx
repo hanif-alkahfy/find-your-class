@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react"
 import axios from "axios";
 import Navbar from "./components/Navbar";
 import Footer from './components/Footer';
@@ -33,6 +34,7 @@ function App() {
 
   return (
     <Router>
+      <Analytics/>
       <Navbar />
       <div className="min-h-screen min-w-screen flex flex-col items-center justify-center p-5 text-black">
         <h2 className="text-4xl font-bold mb-5 mt-25">Jadwal Kuliah S1 Informatika Amikom</h2>
