@@ -66,7 +66,7 @@ app.get("/api/data", (req, res) => {
 //   res.json(result); // Mengembalikan data saja
 // });
 
-// // Start server
-// app.listen(PORT, () => {
-//   console.log(`Server berjalan di PORT: ${PORT}`);
-// });
+// Start server
+app.listen(PORT, () => {
+  console.log(`Server berjalan di PORT: ${PORT}`);
+});
