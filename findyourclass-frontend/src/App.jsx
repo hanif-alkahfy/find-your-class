@@ -2,9 +2,9 @@ import React, { useState } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import axios from "axios";
 import Navbar from "./components/Navbar";
+import Footer from './Footer';
 import SearchBar from "./components/SearchBar";
 import SearchResults from "./components/SearchResults";
-import bannerImage from "./assets/banner.png";
 import "./index.css";
 
 function App() {
@@ -51,6 +51,7 @@ function App() {
         ) : (
           results.length > 0 && <SearchResults data={results} />
         )}
+        <Footer />
       </div>
     </Router>
   );    
