@@ -18,20 +18,18 @@ Find Your Class adalah aplikasi web yang dirancang untuk memudahkan pencarian in
 
 ### Backend
 - **Node.js** - Runtime JavaScript
-- **Express.js** - Web framework (asumsi)
-- **Database** - (MongoDB/MySQL/PostgreSQL)
+- **Express.js** - Web framework
 
 ### Frontend
-- **Framework Modern** - (React/Vue/Angular)
-- **CSS Framework** - (Bootstrap/Tailwind CSS)
-- **Build Tool** - Webpack/Vite
+- **Framework Modern** - (React)
+- **CSS Framework** - (Tailwind CSS)
+- **Build Tool** - Vite
 
 ## 📦 Instalasi
 
 ### Prasyarat
 - Node.js (versi 14 atau lebih tinggi)
 - npm atau yarn
-- Database (sesuai konfigurasi)
 
 ### Clone Repository
 ```bash
